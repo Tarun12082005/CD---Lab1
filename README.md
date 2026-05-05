@@ -115,7 +115,8 @@ Each lab folder contains its own detailed README for better understanding.
 
 🎓 Author
 
-Ayush Thakur
+Ayush Raj
+
 
 Course: Compiler Design
 Type: Laboratory Experiments
